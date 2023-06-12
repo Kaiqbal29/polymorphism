@@ -1,0 +1,15 @@
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\polymorphism.csproj.AssemblyReference.cache
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\polymorphism.AssemblyInfoInputs.cache
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\polymorphism.AssemblyInfo.cs
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\polymorphism.csproj.CoreCompileInputs.cache
+E:\Pemograman\polymorphism\polymorphism\bin\Debug\net7.0\polymorphism.exe
+E:\Pemograman\polymorphism\polymorphism\bin\Debug\net7.0\polymorphism.deps.json
+E:\Pemograman\polymorphism\polymorphism\bin\Debug\net7.0\polymorphism.runtimeconfig.json
+E:\Pemograman\polymorphism\polymorphism\bin\Debug\net7.0\polymorphism.dll
+E:\Pemograman\polymorphism\polymorphism\bin\Debug\net7.0\polymorphism.pdb
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\polymorphism.dll
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\refint\polymorphism.dll
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\polymorphism.pdb
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\polymorphism.genruntimeconfig.cache
+E:\Pemograman\polymorphism\polymorphism\obj\Debug\net7.0\ref\polymorphism.dll
